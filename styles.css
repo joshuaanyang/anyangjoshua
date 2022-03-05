@@ -1,0 +1,189 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #3B0000;
+}
+
+h1 {;
+  color: #3B0000;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+    font-size: 80px;
+    line-height: 2;
+
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  color: #66BFBF;
+  font-weight: bolder;
+
+}
+
+.prog {
+  margin-top: 5px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-weight: bolder;
+}
+
+hr {
+
+  background:  #FBF8F1;
+  color: #D1D1D1;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+  margin: 50px auto;
+
+}
+
+.skill-row {
+  width: 60%;
+  margin: 0 auto 0 auto;
+  text-align: left;
+  line-height: 2;
+  padding-bottom: 30px;
+}
+
+.container {
+  background-color: #EFEFEF;
+  padding-top: 60px;
+  position: relative;
+
+}
+
+.middle-container {
+  background-color: #FBF8F1;
+  position: relative;
+  padding-bottom: 60px;
+}
+
+
+.profile {
+  padding-top: 90px;
+  padding-bottom: 20px;
+}
+
+.profile-picture {
+  border-radius: 40%;
+  height: 150px;
+}
+
+.contact-me {
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+
+
+.bottom-container {
+  background-color:  #EFEFEF;
+  margin-bottom: 0;
+  padding-top: 30px;
+  padding-bottom: 35px;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+  padding-top: 150px;
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 280px;
+  top: 90px;
+}
+
+.skills {
+  padding-top: 10px;
+  padding-bottom: 15px;
+  position: relative;
+  margin-bottom: 50px;
+}
+
+.pyth {
+  height: 85px;
+  width: 75px;
+  position: relative;
+
+}
+
+.htcs {
+  height: 75px;
+  width: 75px;
+  position: relative;
+  top: 90px;
+}
+
+.js {
+  height: 75px;
+  width: 75px;
+  position: relative;
+
+}
+
+.imagess {
+  float: left;
+  margin-right: 30px;
+}
+
+.bugg {
+  float: right;
+  margin-left: 30px;
+  height: 100px;
+  width: 100px;
+}
+
+.help {
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  line-height: 2;
+  padding-bottom: 30px;
+}
+
+.footer-link {
+  font-family: 'Azeret Mono', monospace;
+  padding: 15px;
+  font-weight: bold;
+  color: #11999E;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #3B0000;
+}
+
+.lastt {
+  font-size: 9px;
+  color: #3B0000;
+  padding-top: 10px;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #524752;
+  font-size: 15px;
+  background: #EFEFEF;
+  padding: 12px 22px 12px 22px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ad956d;
+  text-decoration: none;
+}
